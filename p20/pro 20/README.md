@@ -1,2 +1,2 @@
 # GCSO
-GCSO
+G c s o
